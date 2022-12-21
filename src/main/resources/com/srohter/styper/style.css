@@ -1,0 +1,54 @@
+.root{
+    -fx-fill: none;
+    -fx-background-color: none;
+}
+#basePane{
+    -fx-background-color: #717C89;
+    -fx-background-radius: 30;
+}
+#recButton{
+    -fx-background-color: #ADF6B1;
+    -fx-background-radius: 20;
+}
+#recButton:hover{
+    -fx-background-color: #90BAAD;
+}
+#speedBox{
+    -fx-background-color: none;
+}
+#validRec {
+    -fx-background-color: #8aa2a9;
+    -fx-background-radius: 10;
+}
+#StartRec{
+    -fx-background-color: #8AA2A9;
+    -fx-background-radius: 30;
+}
+#dataPath{
+    -fx-prompt-text-fill: rgba(255,255,255,50%);
+    -fx-text-fill: rgba(255,255,255,50%);
+    -fx-background-color: #AAEFDF;
+    -fx-background-radius: 10;
+}
+#resetButton{
+    -fx-background-color: #FF6961;
+    -fx-text-fill: white;
+    -fx-background-radius: 20;
+}
+#resetButton:hover{
+    -fx-background-color: #8AA2A9;
+}
+#uploadText{
+    -fx-border-radius: 40;
+    -fx-prompt-text-fill: #AAEFDF;
+    -fx-background-color: #AAEFDF;
+    -fx-font-family: "Nirmala UI";
+    -fx-font-size: 14;
+}
+#delayButton{
+    -fx-background-radius: 5;
+    -fx-background-color: #ADF6B1;
+}
+#delaySlider{
+    -fx-background-color: none;
+}
